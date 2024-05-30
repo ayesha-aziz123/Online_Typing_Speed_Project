@@ -1,0 +1,22 @@
+{
+  "name": "ayesha-aziz-typing_speed-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AYESHA",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "figlet": "^1.7.0",
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/figlet": "^1.5.8",
+    "@types/inquirer": "^9.0.7"
+  }
+}
